@@ -1,4 +1,4 @@
 # Repositórios de Thiago Pinheiro
-[Lista de Tarefas](https://github.com/thiagorfpinheiro/lista-de-tarefas)
+1. [Lista de Tarefas](https://github.com/thiagorfpinheiro/lista-de-tarefas)
 
-[Cartas de baralho aleatórias](https://github.com/thiagorfpinheiro/cartas-aleatorias)
+1. [Cartas de baralho aleatórias](https://github.com/thiagorfpinheiro/cartas-aleatorias)
